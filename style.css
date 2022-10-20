@@ -1,0 +1,10 @@
+body{
+    background-image: url("background.webp");
+    text-align: center;
+}
+#myCanvas{
+border-color: orange;
+border-width: 5px;
+border-style: ridge;
+background-color: white;
+}
